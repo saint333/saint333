@@ -53,35 +53,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saint333&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saint333&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saint333&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saint333&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saint333&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=saint333&theme=radical&no-frame=true&column=7)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/saint333/saint333/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saint333&bg_color=1a1a2e&color=e94560&line=0f3460&point=ffffff&area=true&area_color=e94560)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
